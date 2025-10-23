@@ -71,6 +71,9 @@ Convertirme en un **desarrollador Full Stack sólido**, capaz de diseñar y desa
   <a href="mailto:fary45161@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+    <a href="[https://github.com/Fary-t](https://github.com/Fary-T/)" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-farydev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
